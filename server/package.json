@@ -4,7 +4,7 @@
   "description": "a comprehensive job seeking and employment page for cebu locals featuring AI advancements (NLP)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "server.js"
   },
   "keywords": [],
   "author": "",
